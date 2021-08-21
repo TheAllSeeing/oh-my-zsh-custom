@@ -24,7 +24,7 @@
 	url = https://github.com/softmoth/zsh-vim-mode
 [submodule "plugins/fancy-ctrl-z"]
 	path = plugins/fancy-ctrl-z
-	url = https://github.com/mdumitru/fancy-ctrl-z
+	url = https://github.com/theunraveler/zsh-fancy_ctrl_z
 [submodule "themes/powerlevel10k"]
 	path = themes/powerlevel10k
 	url = https://github.com/romkatv/powerlevel10k.git
